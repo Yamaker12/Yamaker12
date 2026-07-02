@@ -27,7 +27,6 @@ Meu nome é **Yan**.
 
 ## 📫 Contato
 
-- GitHub: https://github.com/Yamaker12
 - 📩 E-mail principal: yanmmaa7@gmail.com
 - 📩 E-mail secundário: yanmma7@gmail.com
 
