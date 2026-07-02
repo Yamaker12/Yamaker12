@@ -1,11 +1,42 @@
 # Olá! 👋
 
-Meu nome é Yan.
+Meu nome é **Yan**.
 
-Vou iniciar a graduação em Ciência da Computação no segundo semestre de 2026.
+🎓 Vou iniciar a graduação em **Ciência da Computação** no segundo semestre de **2026**.
 
-Atualmente estou aprendendo Python e possuo conhecimentos básicos em Lua.
+💻 Estou construindo minha carreira como desenvolvedor. Atualmente estudo programação e busco evoluir por meio de projetos práticos e aprendizado constante.
 
-Já desenvolvi alguns projetos no Roblox Studio utilizando Lua e pretendo criar novos projetos com Python e outras linguagens à medida que evoluo.
+---
 
-Meu objetivo é me tornar um desenvolvedor Full Stack e, futuramente, atuar como engenheiro de software. 🫡
+## 🚀 Sobre mim
+
+- 🌱 Atualmente aprendendo **Python**
+- 🎮 Experiência com desenvolvimento de jogos no **Roblox Studio** utilizando **Lua**
+- 🎯 Objetivo: me tornar um desenvolvedor **Full Stack** e, futuramente, atuar como **Engenheiro de Software**
+
+---
+
+## 💻 Conhecimentos
+
+| Tecnologia | Nível |
+|------------|--------|
+| 🐍 Python | Começando a Aprender|
+| 🌙 Lua | Básico |
+
+---
+
+## 🚀 Projetos
+
+### 🎮 Climb a Mountain
+Meu primeiro projeto desenvolvido no **Roblox Studio**, utilizando **Lua** e conseguiu alcançar **100 Visitas**.
+
+Em breve, novos projetos serão adicionados conforme avanço nos estudos.
+
+---
+
+## 📫 Contato
+
+- GitHub: https://github.com/Yamaker12
+- E-Mail: yanmma7@gmail.com ou yanmmaa7@gmail.com
+
+Obrigado pela visita! 👋
