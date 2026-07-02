@@ -37,6 +37,7 @@ Em breve, novos projetos serão adicionados conforme avanço nos estudos.
 ## 📫 Contato
 
 - GitHub: https://github.com/Yamaker12
-- E-Mail: yanmmaa7@gmail.com (principal) ou yanmma7@gmail.com (reserva)
+- 📧 E-mail principal: yanmmaa7@gmail.com
+- 📧 E-mail secundário: yanmma7@gmail.com
 
 Obrigado pela visita! 👋
