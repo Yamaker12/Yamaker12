@@ -25,15 +25,6 @@ Meu nome é **Yan**.
 
 ---
 
-## 🚀 Projetos
-
-### 🎮 Climb a Mountain
-Meu primeiro projeto desenvolvido no **Roblox Studio** utilizando **Lua**, alcançando mais de **100 visitas**.
-
-Em breve, novos projetos serão adicionados conforme avanço nos estudos.
-
----
-
 ## 📫 Contato
 
 - GitHub: https://github.com/Yamaker12
