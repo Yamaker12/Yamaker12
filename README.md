@@ -20,7 +20,7 @@ Meu nome é **Yan**.
 
 | Tecnologia | Nível |
 |------------|--------|
-| 🐍 Python | Começando a Aprender|
+| 🐍 Python | Iniciante |
 | 🌙 Lua | Básico |
 
 ---
