@@ -10,7 +10,7 @@ Meu nome é **Yan**.
 
 ## 🚀 Sobre mim
 
-- 🌱 Atualmente aprendendo **Python**
+- 🌱 Atualmente aprendendo **Python** e fazendo questões no **Leetcode**
 - 🎮 Experiência com desenvolvimento de jogos no **Roblox Studio** utilizando **Lua**
 - 🎯 Objetivo: me tornar um desenvolvedor **Full Stack** e, futuramente, atuar como **Engenheiro de Software**
 
